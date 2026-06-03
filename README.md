@@ -1,11 +1,11 @@
-# Banten 2024 Electoral Analysis
-**Pileg DPRD Provinsi + Pilgub Banten 2024 · KPU Provinsi Banten**
+# Banten 2024 Electoral Analysis 
+**Pileg DPRD Provinsi + Pilgub Banten 2024 · Based On Real-Data KPU Provinsi Banten**
 
 ---
 
 ## Overview
 
-Analisis komprehensif hasil pemilu 2024 Provinsi Banten mencakup dua kontestasi:
+*Analisis komprehensif hasil pemilu 2024 Provinsi Banten mencakup dua kontestasi:*
 
 - **Pileg DPRD Provinsi Banten 2024** — 18 partai peserta, 12 dapil, 6.454.416 suara sah
 - **Pilgub Banten 2024** — Airin-Ade vs Andra-Dimyati, 8 kab/kota di Provinsi Banten
@@ -75,16 +75,16 @@ Kab/kota dengan margin terbesar Andra-Dimyati:
 ## Visualizations
 
 ### Ranking Semua Partai
-![Ranking Partai](analysis/01_ranking_partai.png)
+<img width="1289" height="690" alt="gambar 1" src="https://github.com/user-attachments/assets/0bf399a2-77c7-4d8e-89af-b7d4e03177d6" />
 
 ### Golkar per Dapil
-![Golkar per Dapil](analysis/02_golkar_per_dapil.png)
+<img width="1389" height="590" alt="gambar 2" src="https://github.com/user-attachments/assets/25a3873c-d53f-4163-be22-553ea2559739" />
 
 ### Heatmap Top 8 Partai per Dapil
-![Heatmap](analysis/03_heatmap_partai.png)
+<img width="1273" height="590" alt="gambar 4" src="https://github.com/user-attachments/assets/95a19e2a-5572-4ce9-bb1a-bea30737d7e4" />
 
 ### Pilgub per Kab/Kota
-![Pilgub](analysis/04_pilgub_per_kab_kota.png)
+<img width="1190" height="590" alt="gambar 3" src="https://github.com/user-attachments/assets/8471c0e6-2d29-4fe0-966c-73e8a45cc236" />
 
 ---
 
