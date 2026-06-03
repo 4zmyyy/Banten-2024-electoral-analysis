@@ -8,9 +8,9 @@
 Analisis komprehensif hasil pemilu 2024 Provinsi Banten mencakup dua kontestasi:
 
 - **Pileg DPRD Provinsi Banten 2024** — 18 partai peserta, 12 dapil, 6.454.416 suara sah
-- **Pilgub Banten 2024** — Airin-Ade vs Andra-Dimyati, 8 kab/kota
+- **Pilgub Banten 2024** — Airin-Ade vs Andra-Dimyati, 8 kab/kota di Provinsi Banten
 
-**Golkar sebagai highlight utama** — partai dengan perolehan suara terbanyak di Banten 2024.
+**Golkar sebagai highlight utama** — partai dengan perolehan suara terbanyak di Banten 2024 dan perolehan suara terbanyak ke-2 dalam skala Nasional.
 
 ---
 
