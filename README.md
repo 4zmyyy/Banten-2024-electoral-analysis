@@ -1,5 +1,7 @@
 # Banten 2024 Electoral Analysis 
 **Pileg DPRD Provinsi + Pilgub Banten 2024 · Based On Real-Data KPU Provinsi Banten**
+<img width="1300" height="700" alt="banten_2024_animated" src="https://github.com/user-attachments/assets/ecbed889-60c9-4d21-82d6-fefea07f2042" />
+
 
 ---
 
